@@ -1,2 +1,19 @@
-# grid-responsive-web-page
-grid responsive web page using media query
+# Grid Layouts Project 📐
+
+This project demonstrates different grid layouts using HTML and CSS. Each HTML file represents a distinct grid layout.
+
+## Grid Layouts
+
+### Layout 1
+- File: `gridLayout1.html`
+- Description: A simple grid layout with a welcome message and two buttons leading to different grid layouts.
+
+### Layout 2
+- File: `gridLayout2.html`
+- Description: An example of a responsive grid layout with various sections.
+
+
+### Layout 3
+- File: `gridLayout3.html`
+- Description: A more complex grid layout with a header, navigation bar, content areas, and a footer.
+![43](https://github.com/codster15/grid-responsive-web-page/assets/127374043/b2c85cfd-1b64-423d-85c4-d513c394281c)
