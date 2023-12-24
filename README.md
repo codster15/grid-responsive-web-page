@@ -1,7 +1,7 @@
 # Grid Layouts Project 📐
 
 This project demonstrates different grid layouts using HTML and CSS. Each HTML file represents a distinct grid layout.
-Project live ->  [Project link](https://codster15.github.io/grid-responsive-web-page/)
+## Project live ->  [Project link](https://codster15.github.io/grid-responsive-web-page/)
 
 ## Grid Layouts
 
